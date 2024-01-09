@@ -1,0 +1,429 @@
+{
+  "Lessons":[
+    {
+      "LessonName": "Legal Mandate in the use of Gender-Fair Language",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter"
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "LessonName": "Sexism in Language",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter"
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "LessonName": "Guidelines for Non-Sexist Writing",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter"
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "LessonName": "Sexism in Image or Other Literature",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter"
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        },
+        {
+          "ColumnA":[
+            "1. Newsman",
+            "2. Ombudsman",
+            "3. Showman",
+            "4. Sportsmanship",
+            "5. Sugar Daddy",
+            "6. Unmanly",
+            "7. Airman",
+            "8. Congressman",
+            "9. Housewife",
+            "10. Kingpin"
+          ],
+
+          "ColumnB":[
+            "a. Entertainer",
+            "b. Fair Play",
+            "c. Unwilling",
+            "d. Legislator",
+            "e. Reporter",
+            "f. Wealthy Benefactor",
+            "g. Advocate",
+            "h. Aviator",
+            "i. Leader",
+            "j. Homemaker"
+          ],
+          "CorrectAnswer": [
+            "e",
+            "g",
+            "a",
+            "b",
+            "f",
+            "c",
+            "h",
+            "d",
+            "j",
+            "i"
+          ]
+        },
+        {
+          "ColumnA":[
+            "1. Manhole",
+            "2. Middleman",
+            "3. Dentist",
+            "4. Strongman",
+            "5. Workmanlike",
+            "6. Journeyman",
+            "7. Mansplain",
+            "8. Postman",
+            "9. Upperclassman",
+            "10. Workmanship"
+          ],
+
+          "ColumnB":[
+            "a. Explain",
+            "b. Old Student",
+            "c. Skilled Worker",
+            "d. Postal Worker",
+            "e. Skillful",
+            "f. Dental Professional",
+            "g. Leader",
+            "h. Craft",
+            "i. Utility Hole",
+            "j. Intermediary"
+          ],
+          "CorrectAnswer": [
+            "i",
+            "j",
+            "f",
+            "g",
+            "e",
+            "c",
+            "a",
+            "d",
+            "b",
+            "h"
+          ]
+        },
+        {
+          "ColumnA":[
+            "1. Master Copy",
+            "2. Janitor",
+            "3. Maids",
+            "4. Mrs.",
+            "5. Boyfriend/Girlfriend",
+            "6. Husband/Wife",
+            "7. Him/Her",
+            "8. His/Hers",
+            "9. Grandmother/ Grandfather",
+            "10. Granddaughter/ Grandson"
+          ],
+
+          "ColumnB":[
+            "a. Household Workers",
+            "b. Spouse",
+            "c. Original",
+            "d. Sanitary Engineer",
+            "e. Grandchild",
+            "f. Theirs",
+            "g. Grandparent",
+            "h. Partner",
+            "i. They",
+            "j. Ms."
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "LessonName": "Gender-Fair language in the Vulnerable Sectors: PWD",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter"
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "LessonName": "Contextualizing Sexist Language",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter "
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    },
+    {
+      "LessonName": "Extra-Extra: Gay Lingo",
+      "Quiz":[
+        {
+          "ColumnA":[
+            "1. Bachelorette",
+            "2. Daddy",
+            "3. Freshman",
+            "4. Gentleman’s Agreement",
+            "5. Landlord",
+            "6. Lady Luck",
+            "7. Manhandle",
+            "8. Manhunt",
+            "9. Manly",
+            "10. Manslaughter "
+          ],
+
+          "ColumnB":[
+            "a. First Year Student",
+            "b. Good Fortune",
+            "c. Single Person",
+            "d. Parent",
+            "e. Homicide",
+            "f. Search",
+            "g. Strong",
+            "h. Property Owner",
+            "i. Handle Roughly",
+            "j. Unwritten Agreement"
+          ],
+          "CorrectAnswer": [
+            "c",
+            "d",
+            "a",
+            "j",
+            "h",
+            "b",
+            "i",
+            "f",
+            "g",
+            "e"
+          ]
+        }
+      ]
+    }
+  ]
+}

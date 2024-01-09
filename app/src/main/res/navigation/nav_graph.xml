@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.befair.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment_to_aboutUsFragment"
+            app:destination="@id/aboutUsFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_referenceFragment"
+            app:destination="@id/referencesFragment" />
+        <action
+            android:id="@+id/action_homeFragment_to_lessonFragment"
+            app:destination="@id/lessonFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/aboutUsFragment"
+        android:name="com.example.befair.AboutUsFragment"
+        android:label="fragment_about_us"
+        tools:layout="@layout/fragment_about_us" >
+        <action
+            android:id="@+id/action_aboutUsFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/aboutUsFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/lessonFragment"
+        android:name="com.example.befair.LessonFragment"
+        android:label="fragment_lesson"
+        tools:layout="@layout/fragment_lesson" >
+        <action
+            android:id="@+id/action_lessonFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+<!--        <action-->
+<!--            android:id="@+id/action_lessonFragment_to_topicFragment"-->
+<!--            app:destination="@id/topicFragment" />-->
+        <action
+            android:id="@+id/action_lessonFragment_to_detailFragment"
+            app:destination="@id/detailFragment"
+            app:popUpTo="@id/lessonFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/topicFragment"
+        android:name="com.example.befair.TopicFragment"
+        android:label="fragment_topic"
+        tools:layout="@layout/fragment_topic" >
+        <action
+            android:id="@+id/action_topicFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+        <action
+            android:id="@+id/action_topicFragment_to_lessonFragment"
+            app:destination="@id/lessonFragment" />
+        <action
+            android:id="@+id/action_topicFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+        <argument
+            android:name="lessonName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.befair.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail" >
+        <action
+            android:id="@+id/action_detailFragment_to_lessonFragment"
+            app:destination="@id/lessonFragment"
+            app:popUpTo="@id/detailFragment"
+            app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_detailFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+        <action
+            android:id="@+id/action_detailFragment_to_quizTimeFragment"
+            app:destination="@id/quizTimeFragment"
+            app:popUpTo="@id/detailFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/quizTimeFragment"
+        android:name="com.example.befair.QuizTimeFragment"
+        android:label="fragment_quiz_time"
+        tools:layout="@layout/fragment_quiz_time" >
+        <action
+            android:id="@+id/action_quizTimeFragment_to_detailFragment"
+            app:destination="@id/detailFragment" />
+        <action
+            android:id="@+id/action_quizTimeFragment_to_quizRuleFragment"
+            app:destination="@id/quizRuleFragment"
+            app:popUpTo="@id/quizTimeFragment"
+            app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_quizTimeFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+        <action
+            android:id="@+id/action_quizTimeFragment_to_detailFragment2"
+            app:destination="@id/detailFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizFragment"
+        android:name="com.example.befair.QuizFragment"
+        android:label="fragment_quiz"
+        tools:layout="@layout/fragment_quiz" >
+        <action
+            android:id="@+id/action_quizFragment_to_quizPassFragment"
+            app:destination="@id/quizPassFragment"
+            app:popUpTo="@id/quizFragment"
+            app:popUpToInclusive="true"/> />
+        <action
+            android:id="@+id/action_quizFragment_to_quizFailFragment"
+            app:destination="@id/quizFailFragment"
+            app:popUpTo="@id/quizFragment"
+            app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_quizFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+        <action
+            android:id="@+id/action_quizFragment_to_quizTimeFragment"
+            app:destination="@id/quizTimeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizPassFragment"
+        android:name="com.example.befair.QuizPassFragment"
+        android:label="fragment_quiz_pass"
+        tools:layout="@layout/fragment_quiz_pass" >
+        <action
+            android:id="@+id/action_quizPassFragment_to_lessonFragment"
+            app:destination="@id/lessonFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/quizFailFragment"
+        android:name="com.example.befair.QuizFailFragment"
+        android:label="fragment_quiz_fail"
+        tools:layout="@layout/fragment_quiz_fail">
+        <action
+            android:id="@+id/action_quizFailFragment_to_quizRuleFragment"
+            app:destination="@id/quizRuleFragment"
+            app:popUpToInclusive="true"
+            app:popUpTo="@id/quizFailFragment"/>
+        <action
+            android:id="@+id/action_quizFailFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"
+            app:popUpTo="@id/quizFailFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/quizRuleFragment"
+        android:name="com.example.befair.QuizRuleFragment"
+        android:label="fragment_quiz_rule"
+        tools:layout="@layout/fragment_quiz_rule" >
+        <action
+            android:id="@+id/action_quizRuleFragment_to_quizFragment"
+            app:destination="@id/quizFragment"
+            app:popUpTo="@id/quizRuleFragment"
+            app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_quizRuleFragment_to_jumbledQuizFragment"
+            app:destination="@id/jumbledQuizFragment"
+            app:popUpTo="@id/quizRuleFragment"
+            app:popUpToInclusive="true"/>
+        <action
+            android:id="@+id/action_quizRuleFragment_to_fillUpsQuizWithChoicesFragment"
+            app:destination="@id/fillUpsWithChoicesFragment"
+            app:popUpToInclusive="true"
+            app:popUpTo="@id/quizRuleFragment"/>
+        <action
+            android:id="@+id/action_quizRuleFragment_to_MatchingTypeQuizFragment"
+            app:destination="@id/matchingTypeQuizFragment"
+            app:popUpToInclusive="true"
+            app:popUpTo="@id/quizRuleFragment"/>
+    </fragment>
+    <fragment
+        android:id="@+id/jumbledQuizFragment"
+        android:name="com.example.befair.JumbledQuizFragment"
+        android:label="JumbledQuizFragment">
+        <action
+            android:id="@+id/action_jumbledQuizFragment_to_quizFailFragment"
+            app:destination="@id/quizFailFragment"
+            app:popUpTo="@id/jumbledQuizFragment"
+            app:popUpToInclusive="true"/>
+
+        <action
+            android:id="@+id/action_jumbledQuizFragment_to_quizPassFragment"
+            app:destination="@id/quizPassFragment"
+            app:popUpTo="@id/jumbledQuizFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_jumbledQuizFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+        <action
+            android:id="@+id/action_jumbledQuizFragment_to_quizTimeFragment"
+            app:destination="@id/quizTimeFragment" />
+        <action
+            android:id="@+id/action_jumbledQuizFragment_to_congratsFragment"
+            app:destination="@id/congratsFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/fillUpsWithChoicesFragment"
+        android:name="com.example.befair.FillUpsWithChoicesFragment"
+        android:label="FillUpsWithChoicesFragment" >
+
+        <action
+            android:id="@+id/action_fillUpsQuizWithChoicesFragment_to_quizFailFragment"
+            app:destination="@id/quizFailFragment"
+            app:popUpTo="@id/fillUpsWithChoicesFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_fillUpsQuizWithChoicesFragment_to_quizPassFragment"
+            app:destination="@id/quizPassFragment"
+            app:popUpTo="@id/fillUpsWithChoicesFragment"
+            app:popUpToInclusive="true" />
+        <action
+            android:id="@+id/action_fillUpsWithChoicesFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+        <action
+            android:id="@+id/action_fillUpsWithChoicesFragment_to_quizTimeFragment"
+            app:destination="@id/quizTimeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/matchingTypeQuizFragment"
+        android:name="com.example.befair.MatchingTypeQuizFragment"
+        android:label="MatchingTypeQuizFragment">
+
+        <action
+            android:id="@+id/action_matchingTypeQuizFragment_to_quizPassFragment"
+            app:destination="@id/quizPassFragment"
+            app:popUpTo="@id/matchingTypeQuizFragment"
+            app:popUpToInclusive="true" />
+
+        <action
+            android:id="@+id/action_matchingTypeQuizFragment_to_quizFailFragment"
+            app:destination="@id/quizFailFragment"
+            app:popUpTo="@id/matchingTypeQuizFragment"
+            app:popUpToInclusive="true" />
+    </fragment>
+    <fragment
+        android:id="@+id/referencesFragment"
+        android:name="com.example.befair.ReferencesFragment"
+        android:label="ReferencesFragment" >
+        <action
+            android:id="@+id/action_referenceFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:popUpTo="@id/referencesFragment"
+            app:popUpToInclusive="true"/>
+    </fragment>
+    <fragment
+        android:id="@+id/congratsFragment"
+        android:name="com.example.befair.CongratsFragment"
+        android:label="fragment_congrats"
+        tools:layout="@layout/fragment_congrats" >
+        <action
+            android:id="@+id/action_congratsFragment_to_homeFragment"
+            app:destination="@id/homeFragment"
+            app:launchSingleTop="true"/>
+    </fragment>
+</navigation>

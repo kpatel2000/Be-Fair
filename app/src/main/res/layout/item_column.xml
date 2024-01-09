@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/quiz_matching_answer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#620261"
+        android:inputType="text"
+        android:digits="abcdefghij"
+        android:maxLength="1"
+        android:textColor="@color/black"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/quiz_matching_columnA"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:textColor="#620261"
+        android:textSize="16sp"
+        android:layout_marginEnd="10dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toStartOf="@id/guideline"
+        app:layout_constraintBaseline_toBaselineOf="@+id/quiz_matching_answer"
+        app:layout_constraintStart_toEndOf="@id/quiz_matching_answer"
+        tools:text="1. Chairwoman" />
+
+
+    <TextView
+        android:id="@+id/quiz_matching_columnB"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:textColor="#620261"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBaseline_toBaselineOf="@+id/quiz_matching_answer"
+        app:layout_constraintStart_toEndOf="@id/guideline"
+        tools:text="a. Manager" />
+
+    <androidx.constraintlayout.widget.Guideline
+        android:id="@+id/guideline"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.6"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

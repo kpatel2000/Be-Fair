@@ -1,0 +1,364 @@
+{
+  "Quizes":[
+    {
+      "LessonName": "Legal Mandate in the use of Gender-Fair Language",
+      "Quiz":[
+        {
+          "Question":"Working Men",
+          "CorrectAnswer":"workers",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "LessonName": "Sexism in Language",
+      "Quiz":[
+        {
+          "Question":"Working Men",
+          "CorrectAnswer":"workers",
+          "Image": ""
+        },
+        {
+          "Question":"Man on the Street",
+          "CorrectAnswer":"average person",
+          "Image": ""
+        },
+        {
+          "Question":"Forefather",
+          "CorrectAnswer":"ancestor",
+          "Image": ""
+        },
+        {
+          "Question":"Layman",
+          "CorrectAnswer":"non specialist",
+          "Image": ""
+        },
+        {
+          "Question":"Old Masters",
+          "CorrectAnswer":"classic artists",
+          "Image": ""
+        },
+        {
+          "Question":"Congressman",
+          "CorrectAnswer":"representative",
+          "Image": ""
+        },
+        {
+          "Question":"Craftsmen",
+          "CorrectAnswer":"artisans",
+          "Image": ""
+        },
+        {
+          "Question":"Draftsmen",
+          "CorrectAnswer":"drafters",
+          "Image": ""
+        },
+        {
+          "Question":"Foremen",
+          "CorrectAnswer":"supervisors",
+          "Image": ""
+        },
+        {
+          "Question":"Statesman",
+          "CorrectAnswer":"diplomats",
+          "Image": ""
+        },
+        {
+          "Question":"Watchmen",
+          "CorrectAnswer":"guards",
+          "Image": ""
+        },
+        {
+          "Question":"Repairmen",
+          "CorrectAnswer":"repairers",
+          "Image": ""
+        },
+        {
+          "Question":"Policeman",
+          "CorrectAnswer":"police officer",
+          "Image": ""
+        },
+        {
+          "Question":"Actress",
+          "CorrectAnswer":"actor",
+          "Image": ""
+        },
+        {
+          "Question":"Authoress",
+          "CorrectAnswer":"author",
+          "Image": ""
+        },
+        {
+          "Question":"Aviatrix",
+          "CorrectAnswer":"aviator",
+          "Image": ""
+        },
+        {
+          "Question":"Executrixes",
+          "CorrectAnswer":"executors",
+          "Image": ""
+        },
+        {
+          "Question":"Heroines",
+          "CorrectAnswer":"heroes",
+          "Image": ""
+        },
+        {
+          "Question":"Hostesses",
+          "CorrectAnswer":"hosts",
+          "Image": ""
+        },
+        {
+          "Question":"Proprietress",
+          "CorrectAnswer":"proprietor",
+          "Image": ""
+        },
+        {
+          "Question":"Usherette",
+          "CorrectAnswer":"usher",
+          "Image": ""
+        },
+        {
+          "Question":"Doctora",
+          "CorrectAnswer":"doctor",
+          "Image": ""
+        },
+        {
+          "Question":"Woman Writer",
+          "CorrectAnswer":"writer",
+          "Image": ""
+        },
+        {
+          "Question":"Girl Athlete",
+          "CorrectAnswer":"athlete",
+          "Image": ""
+        },
+        {
+          "Question":"Male Nurse",
+          "CorrectAnswer":"nurse",
+          "Image": ""
+        },
+        {
+          "Question":"Female Lawyer",
+          "CorrectAnswer":"lawyer",
+          "Image": ""
+        },
+        {
+          "Question":"Male Secretary",
+          "CorrectAnswer":"secretary",
+          "Image": ""
+        },
+        {
+          "Question":"Ladies",
+          "CorrectAnswer":"women",
+          "Image": ""
+        },
+        {
+          "Question":"Weaker Sex",
+          "CorrectAnswer":"women",
+          "Image": ""
+        },
+        {
+          "Question":"Old Maid",
+          "CorrectAnswer":"unmarried women",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "LessonName": "Guidelines for Non-Sexist Writing",
+      "Quiz":[
+        {
+          "Question":"Forefather",
+          "CorrectAnswer":"ancestor",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "LessonName": "Sexism in Image or Other Literature",
+      "Quiz":[
+        {
+          "Question":"Layman",
+          "CorrectAnswer":"non specialist",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "LessonName": "Gender-Fair language in the Vulnerable Sectors: PWD",
+      "Quiz":[
+        {
+          "Question":"Unfairly differentiate.",
+          "CorrectAnswer":"Discriminate",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "LessonName": "Contextualizing Sexist Language",
+      "Quiz":[
+        {
+          "Question":"Discrimination based on gender.",
+          "CorrectAnswer":"sexism",
+          "Image": ""
+        },
+        {
+          "Question":"Communication involving language.",
+          "CorrectAnswer":"discourse",
+          "Image": ""
+        },
+        {
+          "Question":"Unfairly differentiate.",
+          "CorrectAnswer":"discriminate",
+          "Image": ""
+        },
+        {
+          "Question":"Belief in male dominance.",
+          "CorrectAnswer":"male supremacy",
+          "Image": ""
+        },
+        {
+          "Question":"Words representing individuals.",
+          "CorrectAnswer":"pronouns",
+          "Image": ""
+        },
+        {
+          "Question":"Neutral term for both genders.",
+          "CorrectAnswer":"generic masculine",
+          "Image": ""
+        },
+        {
+          "Question":"Making something smaller or lesser.",
+          "CorrectAnswer":"diminution",
+          "Image": ""
+        },
+        {
+          "Question":"Treating something as unimportant.",
+          "CorrectAnswer":"trivialization",
+          "Image": ""
+        },
+        {
+          "Question":"Labels indicating status or identity.",
+          "CorrectAnswer":"titles",
+          "Image": ""
+        },
+        {
+          "Question":"Male-dominated society.",
+          "CorrectAnswer":"patriarchy",
+          "Image": ""
+        },
+        {
+          "Question":"Imposition of cultural values.",
+          "CorrectAnswer":"colonization",
+          "Image": ""
+        },
+        {
+          "Question":"Embedding within a system.",
+          "CorrectAnswer":"encoding",
+          "Image": ""
+        },
+        {
+          "Question":"Passing on or conveying.",
+          "CorrectAnswer":"transmittance",
+          "Image": ""
+        },
+        {
+          "Question":"Learning societal norms.",
+          "CorrectAnswer":"socialization",
+          "Image": ""
+        },
+        {
+          "Question":"Personal sense of gender.",
+          "CorrectAnswer":"gender identity",
+          "Image": ""
+        },
+        {
+          "Question":"Biological aspects.",
+          "CorrectAnswer":"nature",
+          "Image": ""
+        },
+        {
+          "Question":"Shared beliefs and customs.",
+          "CorrectAnswer":"culture",
+          "Image": ""
+        },
+        {
+          "Question":"Physical attributes at birth.",
+          "CorrectAnswer":"biological sex",
+          "Image": ""
+        },
+        {
+          "Question":"Socially constructed roles.",
+          "CorrectAnswer":"gender",
+          "Image": ""
+        },
+        {
+          "Question":"Acquired societal norms.",
+          "CorrectAnswer":"socially learned behaviors",
+          "Image": ""
+        },
+        {
+          "Question":"Overgeneralized beliefs.",
+          "CorrectAnswer":"stereotypes",
+          "Image": ""
+        },
+        {
+          "Question":"Passed down through generations.",
+          "CorrectAnswer":"inherited",
+          "Image": ""
+        },
+        {
+          "Question":"Gained through experience.",
+          "CorrectAnswer":"acquired",
+          "Image": ""
+        },
+        {
+          "Question":"Beliefs about gender roles.",
+          "CorrectAnswer":"gender ideology",
+          "Image": ""
+        },
+        {
+          "Question":"Playthings associated with home life.",
+          "CorrectAnswer":"domestic toys",
+          "Image": ""
+        },
+        {
+          "Question":"Viewed societal functions.",
+          "CorrectAnswer":"perceived roles",
+          "Image": ""
+        },
+        {
+          "Question":"Interactions based on gender.",
+          "CorrectAnswer":"gender dynamics",
+          "Image": ""
+        },
+        {
+          "Question":"Conventional female traits.",
+          "CorrectAnswer":"feminine stereotype",
+          "Image": ""
+        },
+        {
+          "Question":"Conventional male traits.",
+          "CorrectAnswer":"masculine stereotypes",
+          "Image": ""
+        },
+        {
+          "Question":"Simplification.",
+          "CorrectAnswer":"reductive practice",
+          "Image": ""
+        }
+      ]
+    },
+    {
+      "LessonName": "Extra-Extra: Gay Lingo",
+      "Quiz":[
+        {
+          "Question":"Discrimination based on gender.",
+          "CorrectAnswer":"Sexism",
+          "Image": ""
+        }
+      ]
+    }
+  ]
+}

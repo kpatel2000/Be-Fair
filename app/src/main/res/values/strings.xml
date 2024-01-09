@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">Be Fair</string>
+    <string name="jumble_rule">RE-ARRANGE THE LETTERS TO FORM A WORD BASED ON THE GIVEN STATEMENTS. ACQUIRE TEN (10) POINTS TO UNLOCK THE NEXT LESSON.</string>
+    <string name="hangaroo_rule">GUESS AN ALTERNATIVE WORD BY SUGGESTING LETTERS. EACH CORRECT LETTER GUESSED WILL REVEAL ITS POSITION IN THE WORD. HOWEVER, INPUTTING THREE INCORRECT LETTERS WILL RESULT IN FAILURE. ACQUIRE TEN (10) POINTS TO UNLOCK THE NEXT LESSON.</string>
+    <string name="fill_ups_rule">CHOOSE THE CORRECT ANSWER FROM THE CHOICES PROVIDED TO COMPLETE THE SENTENCE. ACQUIRE TEN (10) POINTS TO UNLOCK THE NEXT LESSON.</string>
+    <string name="matching_rule">MATCH ITEMS FROM “TRADITIONAL” TO THE ITEMS IN THE “ALTERNATIVE” WORDS PROVIDED. ACQUIRE TEN (10) POINTS TO UNLOCK THE NEXT LESSON.</string>
+    <string name="quiz_highlight">Getting 10 points will advance you to the next lesson!</string>
+    <string name="quiz_question">What do ypu know about the Republic</string>
+    <string name="reference">For <b>\"Sexism in Language\"</b>
+\n\nVideo: YouTube. (2018). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=C_WrLkgMq1k&amp;t=3s.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Guidelines for Non-Sexist Writing\"</b>
+\n\nVideo: YouTube. (2018a). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=4nHQ57KYj_w.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+\n\nFor <b>\"Sexism in Image and Other Literature\"</b>
+\n\nVideo: AMAZE Org. (2018). Gender Roles and Stereotypes. YouTube. YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=Ulh0DnFUGsk.
+
+\n\nImages: Estebat, R. A. (2023). Use of Gender-Fair Language (pp. 70-71–74).
+
+\n\nText: Michel, A. (1986). Identifying sexism in school textbooks and children’s literature. In Down with stereotypes!: EliminREFERENCES
+
+        \n\nFor <b>\"Sexism in Language\"</b>
+\n\nVideo: YouTube. (2018). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=C_WrLkgMq1k&amp;t=3s.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Guidelines for Non-Sexist Writing\"</b>
+\n\nVideo: YouTube. (2018a). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=4nHQ57KYj_w.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Sexism in Image and Other Literature\"</b>
+\n\nVideo: AMAZE Org. (2018). Gender Roles and Stereotypes. YouTube. YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=Ulh0DnFUGsk.
+
+\n\nImages: Estebat, R. A. (2023). Use of Gender-Fair Language (pp. 70-71–74).
+
+\n\nText: Michel, A. (1986). Identifying sexism in school textbooks and children’s literature. In Down with stereotypes!: EliminREFERENCES
+
+        \n\nFor <b>\"Sexism in Language\"</b>
+\n\nVideo: YouTube. (2018). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=C_WrLkgMq1k&amp;t=3s.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Guidelines for Non-Sexist Writing\"</b>
+\n\nVideo: YouTube. (2018a). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=4nHQ57KYj_w.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Sexism in Image and Other Literature\"</b>
+\n\nVideo: AMAZE Org. (2018). Gender Roles and Stereotypes. YouTube. YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=Ulh0DnFUGsk.
+
+\n\nImages: Estebat, R. A. (2023). Use of Gender-Fair Language (pp. 70-71–74).
+
+\n\nText: Michel, A. (1986). Identifying sexism in school textbooks and children’s literature. In Down with stereotypes!: EliminREFERENCES
+
+        \n\nFor <b>\"Sexism in Language\"</b>
+\n\nVideo: YouTube. (2018). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=C_WrLkgMq1k&amp;t=3s.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Guidelines for Non-Sexist Writing\"</b>
+\n\nVideo: YouTube. (2018a). YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=4nHQ57KYj_w.
+
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\nFor <b>\"Sexism in Image and Other Literature\"</b>
+\n\nVideo: AMAZE Org. (2018). Gender Roles and Stereotypes. YouTube. YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=Ulh0DnFUGsk.
+
+\n\nImages: Estebat, R. A. (2023). Use of Gender-Fair Language (pp. 70-71–74).
+
+\n\nText: Michel, A. (1986). Identifying sexism in school textbooks and children’s literature. In Down with stereotypes!: Eliminating sexism from children’s literature and school textbooks (p. 48). essay, UNESCO.
+
+        \nFor <b>\"Gender-Fair Language in the Vulnerable Sectors (PWD)</b>
+\n\nVideo: PWDAustralia. (2019). PWDA Disability Language Guide. YouTube. Retrieved January 6, 2024, from https://www.youtube.com/watch?v=Q4YjIx2-l2A.
+
+\n\nText: Estebat, R. A. (2023). Use of Gender-Fair Language (pp. 70-71–74).
+
+        \n\nFor <b>\"Contextualizing Sexist Language\"</b>
+\n\nText: Kintanar, T. B., &amp; Tongson, A. (1998). Gender-fair language: A Primer. University Center for Women’s Studies, University of the Philippines.
+
+        \n\n<b>Other Citation:</b>
+\n\nGender-Fair Media Guidebook. (2017). . Philippine Commission on Women. January 4, 2024, https://pubfiles.pagasa.dost.gov.ph/pagasaweb/files/gad/MEMO_2020-11-01_Gender-Fair_Media_Guidebook_with_cover_page_final.pdf</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
